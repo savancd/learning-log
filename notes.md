@@ -1,3 +1,8 @@
+---
+    
+    > 01 Mart 2025 - 06:11am
+    >
+    > Setting up bare git repository for self hosting and transfering files.
 
 ---
 
