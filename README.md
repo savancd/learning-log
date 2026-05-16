@@ -1,16 +1,14 @@
 # Computer Science and Software Engineering
 
-This projects started on 16.05.2026
+<<h2 align="center">This projects started on 16.05.2026</h2>
 ---
 
----
 
-This is self teacheng myself computer science, Python and Linux from the ground up.   
+This is self teaching computer science, Python and Linux from the ground up.   
 Everything Documented publicly. No shortcuts and no pretending to know more then I do.   
 
 
-## This is
-
+<h2 align="center">This is</h3>
 ---
 
 A public record of my Learning. Raw Notes, excercises, mistakes and progress.   
@@ -19,9 +17,9 @@ Built for accountability and not a performance.
 Every commit is real work done that day, and every commit is written in my own words.    
 Excercises are typed by hand, no copy paste.   
 
-## Current focus
-
+<h2 align="center">Current focus</h2>
 ---
+
 
 | Subject | Resources | Status |
 |---|---|---|
