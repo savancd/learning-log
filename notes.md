@@ -1,34 +1,33 @@
----
-    
-    > 01 Mart 2025 - 06:11am
-    >
-    > Setting up bare git repository for self hosting and transfering files.
+# Progress Log
 
 ---
 
-    > 30 Dec 2024 - 13:37h
-    >
-    >> Learning about Linux. and reading book ***linux_CL_5th_edition***
+<h2 align="center">2026</h2>
 
 ---
 
----
 
-    > 30 Dec 2024 - 03.00h
-    >
-    >> Continuing updating folder structure and file structure and learning about Linux.
-
----
+**16 May 2026**
+- Repo Created
+- Python Crash Course started
+- Linux Bible Book started
 
 ---
 
-    > 29 Dec 2024 - 15:58h
+<h2 align="center">My Setup</h2>
 
----
+- Debian Based Laptop
+- Code inside Incus Containers on KVM/QEMU VMs
+- Everything version controlled
+- Daily Commits
+- Notes Written before I forget
+- Documented on [Radenix.com](https://radenix.com)
 
----
 
-    > 26 Nov 2024 - 15:34h
-    Starting again with this project after some period of inactivity.
+<h2 align="center">Learning</h2>
 
----
+One Concept at time to understand before moving forward. Build something real with every concept learned.   
+Document everything, if I cannot explain it I do not understand it yet and must learn subject more.   
+
+
+**Building in Public**
