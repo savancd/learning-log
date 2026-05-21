@@ -1,8 +1,19 @@
 # Progress Log
 
+
+
 ---
 
 <h2 align="center">2026</h2>
+
+
+---
+
+**21. May 2026**
+- Going through Learning course for CompTIA Linux+ ExamPrep
+- Started with setting up new VM for Learning Purposes and going through Course Labs
+- Documenting everything in local personal documentation
+
 
 ---
 
