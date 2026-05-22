@@ -1,8 +1,6 @@
 # Progress Log
 
 
-
-T
 ---
 
 <h2 align="center">2026</h2>
@@ -15,7 +13,13 @@ T
 - Addding more in-depth notes while documenting what I am learning in my personal Documentation
 - Documenting everything what I do, how-to-do, how-to-make etc... in my own language for better undertanding the subjects
 	- Translating everything into Serbian Language
+- Working on user management setting up multiple users, some of them with same password, and some with expiration date for password. Creating groups and adding user's into those groups.
 
+ 
+
+
+
+[!NOTE]
 - Currently at this moment radenix.com is not a priority to update. It will be updated with completelly different pages and the system.
 - Updating GitHub and setup of my own DevOps system is current priority, when system is ready and everything is automated, next what is priority will be focused on.
 
@@ -50,10 +54,35 @@ T
 - Documented on [Radenix.com](https://radenix.com)
 
 
+		_,met$$$$$gg.          @learning
+     ,g$$$$$$$$$$$$$$$P.       -------------
+   ,g$$P""       """Y$$.".     OS: Debian GNU/Linux
+  ,$$P'              `$$$.     Host: KVM/QEMU
+',$$P       ,ggs.     `$$b:    Kernel: Linux 
+`d$$'     ,$P"'   .    $$$     Packages: 863 (dpkg)
+ $$:      $$.   -    ,d$$'     Terminal: incus-agent
+ Y$$.    `.`"Y$$$$P"'          CPU: Intel(R) Core(TM) i7
+ `$$b      "-.__               GPU: RedHat Device 1050 (VGA compatible)
+  `Y$$b                        Memory: 272.48 MiB / 946.25 MiB (29%)
+   `Y$$.                       
+       `Y$$b.                 
+         `"Y$b._            
+             `"""
+
+
+
 <h2 align="center">Learning</h2>
 
 One Concept at time to understand before moving forward. Build something real with every concept learned.   
 Document everything, if I cannot explain it I do not understand it yet and must learn subject more.   
 
 
-**Building in Public**
+<h2 align="center">**Building in Public**</h2>
+
+
+
+
+
+
+
+
