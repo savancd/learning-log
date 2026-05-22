@@ -2,9 +2,24 @@
 
 
 
+T
 ---
 
 <h2 align="center">2026</h2>
+
+
+---
+
+**22. May 2026**
+- Going through Learning course for CompTIA Linux+ ExamPrep
+- Addding more in-depth notes while documenting what I am learning in my personal Documentation
+- Documenting everything what I do, how-to-do, how-to-make etc... in my own language for better undertanding the subjects
+	- Translating everything into Serbian Language
+
+- Currently at this moment radenix.com is not a priority to update. It will be updated with completelly different pages and the system.
+- Updating GitHub and setup of my own DevOps system is current priority, when system is ready and everything is automated, next what is priority will be focused on.
+
+
 
 
 ---
