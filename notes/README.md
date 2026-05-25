@@ -6,6 +6,13 @@
 <h2 align="center">2026</h2>
 
 
+**26. May 2026**
+
+- Last few days going through learning more for CompTIA Linux+ 
+- Going thtough daily practice for Python
+- Finished 4 modules of CompTIA in last 5 days
+
+
 ---
 
 **22. May 2026**
