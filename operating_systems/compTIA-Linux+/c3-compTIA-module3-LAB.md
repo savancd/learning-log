@@ -173,6 +173,106 @@ drwxr-xr-x 7 root       root       4096 May 24 18:51 ..
 ```
 
 
+<h2 align="center">Users passwords</h2>
+
+
+Define the same user password for the multiple users. Show their hashed passwords. And are those hashes the same and why?!
+
+
+With next command you can change the users password:
+
+```bash
+$ passwd user-test1
+
+# On the screen you will get output
+New password:
+Retype new password:
+passwd: password updated successfully
+```
+
+Hashed passwords you can check in:
+
+```bash
+$ cat /etc/shadow
+```
+
+Hash will always be the same, unless you are using encription key. If you are using key for encription then passwords will be the same.
+
+
+<h2 align="center">Lock users account</h2>
+
+There is different ways of locking users account.   
+One of the ways is to use:
+
+```bash
+$ sudo passwd -l user-test1
+```
+
+Output:
+
+```bash
+passwd: password changed.
+```
+
+
+Some other way to lock users account:
+
+```bash
+$ sudo usermod -L user-test1
+```
+
+If you want to unlock it, you can with following example:
+
+```bash
+$ sudo usermod -U user-test1
+```
+
+
+
+<2 align="center">Password expiration</h2>
+
+Define user password exporation date.   
+With a following line you can check how to do it:  
+
+
+```bash
+$ sudo chage --help
+```
+
+Output:
+
+```bash
+Usage: chage [options] LOGIN
+
+Options:
+  -d, --lastday LAST_DAY        set date of last password change to LAST_DAY
+  -E, --expiredate EXPIRE_DATE  set account expiration date to EXPIRE_DATE
+  -h, --help                    display this help message and exit
+  -i, --iso8601                 use YYYY-MM-DD when printing dates
+  -I, --inactive INACTIVE       set password inactive after expiration
+                                to INACTIVE
+  -l, --list                    show account aging information
+  -m, --mindays MIN_DAYS        set minimum number of days before password
+                                change to MIN_DAYS
+  -M, --maxdays MAX_DAYS        set maximum number of days before password
+                                change to MAX_DAYS
+  -R, --root CHROOT_DIR         directory to chroot into
+  -P, --prefix PREFIX_DIR       directory prefix
+  -W, --warndays WARN_DAYS      set expiration warning days to WARN_DAYS
+
+```
+
+
+Set expiration date **(YYYY-MM-DD)**:
+
+```bash
+$ sudo chage -E 2026-07-5 user-test1
+```
+
+
+
+
+
 
 
 
