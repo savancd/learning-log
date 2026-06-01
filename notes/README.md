@@ -5,6 +5,13 @@
 
 <h2 align="center">2026</h2>
 
+**01. Jun 2026**
+
+- Today focus was on Learning Python and small challenges/practices
+- This previous days I did setup few virtual machines as well one bare metal laptop Debian Linux for gaming
+- System and network configurations
+- Self hosting VPN and implementing email in sandboxed environment
+
 
 **26. May 2026**
 

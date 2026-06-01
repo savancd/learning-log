@@ -1,4 +1,4 @@
-# Computer Science and Software Engineering
+<h1 align="center">Computer Science and Software Engineering</h1>
 
 <h2 align="center">This projects started on 16.05.2026</h2>
 
