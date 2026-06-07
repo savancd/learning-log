@@ -23,6 +23,7 @@ Excercises are typed by hand, no copy paste.
 
 | Subject | Resources | Status |
 |---|---|---|
+| Google | Python class - google for Education | In Progress |
 | Python | Python Crash Course 3rd Book  | In Progress |
 | Linux | Linux Bible book | In Progres |
 | OSSU | Open Source Society University | Planned |
