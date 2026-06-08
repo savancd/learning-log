@@ -37,4 +37,5 @@ Excercises are typed by hand, no copy paste.
 -  [roadmap.sh/python](https://roadmap.sh/python)
 -  [BeginnersGuide/Programmers](https://wiki.python.org/moin/BeginnersGuide/Programmers)
 -  [docs.python.org/3/tutorial](https://docs.python.org/3/tutorial/index.html)
-
+-  [UUID objects ](https://docs.python.org/3/library/uuid.html)
+-  [PEP](https://peps.python.org/pep-0008/https://python.org/dev/peps/pep-0008).

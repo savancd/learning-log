@@ -5,6 +5,12 @@
 
 <h2 align="center">2026</h2>
 
+**08. Jun 2026**
+
+- Todays focus was just Python
+- In previous days I did some setups for my DevOps lab
+- Learning more about Linux and DevOps with hands-on practices in last days through my home-lab
+
 **01. Jun 2026**
 
 - Today focus was on Learning Python and small challenges/practices
