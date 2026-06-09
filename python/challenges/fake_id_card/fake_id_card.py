@@ -11,6 +11,7 @@
 #===========================================================================#
 
 # Importing library for the project
+import re
 import datetime
 import random
 import uuid
@@ -30,10 +31,10 @@ print("ID CARD")
 # While it's true it's gonna run until break
 while True:
 	# asking from user full name
-	user_name = input("Name: ")
+	user_name = input("Name: ").title()
 
 	# append to list name
-	inputs.append(f"Name: {user_name}")
+	inputs.append(user_name)
 
 	# If the user enter anything that is not a letter or a space, its gonna run
 	if user_name and all(ch.isalpha() or ch.isspace() for ch in user_name):
@@ -55,16 +56,30 @@ while True:
 	dob = input("DOB: ")
 
 	# append to list date of birth
-	inputs.append(f"DOB: {dob}")
+	inputs.append(dob)
 
-	# taking date input  and breaking the loop if it's correct one
-	try:
-		date_of_birth = datetime.datetime.strptime(dob, "%d.%m.%Y")
-		inputs.append(date_of_birth)
-		break
-	# printing error onto screen if the format is not correct
-	except ValueError:
-		print("Incorect format. Please input it as is: DD.MM.YYYY")
+	if not re.fullmatch(r"\d{2}\.\d{2}\.\d{4}", dob):
+		print("Format must be DD.MM.YYYY")
+	else:
+		try:
+			date_of_birth = datetime.datetime.strptime(dob, "%d.%m.%Y")
+			break
+		except ValueError:
+			print("Invalid date")
+
+print(30 * "=")
+
+# Printing todays day
+today = datetime.datetime.now().date()
+# taking birth date
+birth_date = datetime.datetime.strptime(dob, "%d.%m.%Y").date()
+# calculating 
+age = today.year - birth_date.year - (
+    (today.month, today.day) < (birth_date.month, birth_date.day)
+)
+
+# Appending to the list
+inputs.append(age)
 
 print(30 * "=")
 
@@ -75,7 +90,7 @@ def short_uuid(i=8):
 identifier = short_uuid(8).upper()
 
 # append to the list
-inputs.append(f"ID Number: {identifier}")
+inputs.append(identifier)
 
 # print(f"ID No: {identifier}")
 
@@ -128,41 +143,45 @@ for n,(key, value) in enumerate(select_list):
 	print(f"{n}: {value}")
 
 	# Append address
-	inputs.append(f"Address:  {value}")
+	inputs.append(value)
 
 
 # test
 #print(select_list, type(select_list))
 
-issuing_list = []
 
 # convering it to dict to print it
 select_list_dict = dict(select_list)
-# printing ID issuing country
-print(f"Issuing country: {select_list_dict['country']}\nIssue Date: {datetime.datetime.now().strftime('%d.%m.%Y')}")
 
+
+# appending country
 inputs.append(select_list_dict["country"])
+
+# printing date and time
 today = datetime.datetime.now().strftime("%d.%m.%Y")
-inputs.append(f"Issuing country: {today}")
+
+# appending date and time
+inputs.append(today)
 
 
 
+# printing ID issuing country
+print(f"{select_list_dict['country']}\n {datetime.datetime.now().strftime('%d.%m.%Y')}")
 
-print(30 * "=")
-print(30 * "=")
-
-#print(f"{name_list}\n{id_number_list}\n{address_list}\n{issuing_list}")
 print(inputs)
+# Creating key list
+keys = ["Name: ", "DOB: ", "Age: ", "ID No: ", "Address: ", "Issued by: ", "Country: ", "Lat: ", "Lon: ", "Issued by: ", "Date: "]
 
 
-#for n, (key, value) in enumerate(inputs):
-#	n +=1
-#	print(f"{n} {key} {value}")
+print(30 * "=")
+print(30 * "=")
 
+combined = dict(zip(keys, inputs))
+print(combined)
 
-
-
-
+for key, value in combined.items():
+	n += 1
+	print(f"{key}: {value}")
 
 
 
