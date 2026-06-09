@@ -1,0 +1,58 @@
+{
+    "ShoppingList": [
+        {
+            "item": "Milk",
+            "quantity": 2,
+            "unit": "liters",
+            "category": "Dairy"
+        },
+        {
+            "item": "Eggs",
+            "quantity": 12,
+            "unit": "pieces",
+            "category": "Dairy"
+        },
+        {
+            "item": "Bread",
+            "quantity": 1,
+            "unit": "loaf",
+            "category": "Bakery"
+        },
+        {
+            "item": "Chicken Breast",
+            "quantity": 1,
+            "unit": "kg",
+            "category": "Meat"
+        },
+        {
+            "item": "Apples",
+            "quantity": 6,
+            "unit": "pieces",
+            "category": "Fruit"
+        },
+        {
+            "item": "kruske",
+            "quantity": 6,
+            "unit": "kilogram",
+            "category": "voce"
+        },
+        {
+            "item": "jagode",
+            "quantity": 39,
+            "unit": "kilogram",
+            "category": "voce"
+        },
+        {
+            "item": "zemicke",
+            "quantity": 39,
+            "unit": "komada",
+            "category": "testo"
+        },
+        {
+            "item": "zemicke",
+            "quantity": 3,
+            "unit": "testo",
+            "category": "hrana"
+        }
+    ]
+}
