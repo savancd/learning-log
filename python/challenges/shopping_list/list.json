@@ -23,36 +23,6 @@
             "quantity": 1,
             "unit": "kg",
             "category": "Meat"
-        },
-        {
-            "item": "Apples",
-            "quantity": 6,
-            "unit": "pieces",
-            "category": "Fruit"
-        },
-        {
-            "item": "kruske",
-            "quantity": 6,
-            "unit": "kilogram",
-            "category": "voce"
-        },
-        {
-            "item": "jagode",
-            "quantity": 39,
-            "unit": "kilogram",
-            "category": "voce"
-        },
-        {
-            "item": "zemicke",
-            "quantity": 39,
-            "unit": "komada",
-            "category": "testo"
-        },
-        {
-            "item": "zemicke",
-            "quantity": 3,
-            "unit": "testo",
-            "category": "hrana"
         }
     ]
 }
