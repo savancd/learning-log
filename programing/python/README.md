@@ -1,7 +1,7 @@
 # Python challenge list
 
 
-Challenges completed: 0 / $\infty$   
+Challenges completed: 4 / $\infty$   
 Last completed: shopping_list.py   
 Current challenge: 005   
 
