@@ -24,7 +24,6 @@ with open("./files/users.json", "r") as file:
 with open("./files/new_users.json", "r") as file_2:
 	data2 = json.load(file_2)
 
-
 # printing the json file with 4 spaced indentation
 #print(json.dumps(data, indent=4))
 
@@ -64,17 +63,6 @@ for n, name in enumerate(data):
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 print(30 * "=")
 print("Cheking new users...")
 print(30 * "=")
@@ -82,30 +70,30 @@ print(30 * "=")
 print("Please Enter user name you want to use:")
 user_name = input()
 
+exists = False
 
+# checking is the user exists
 for name in data2:
-	if user_name in name:
-		print(f"{name["name"]} name is existing already.")
-	else:
-		print(f"{user_name} name is available")
-		print("")
+	if isinstance(name, list):
+		if name.get("name") == user_name:
+			exists = True
+			break
 
-print(f"Saving {user_name} to user list...")
-with open("./files/new_users.json", "w") as f:
-	json.dump(data, f, indent=4, ensure_ascii=False)
+if exists:
+	print(f'{name["name"]} name is existing already.')
+else:
+	print(f"{user_name} name is available")
+
+	data2.append({"name": user_name})
+
+	print(f"Saving {user_name} to user list...")
+	with open("./files/new_users.json", "w") as f:
+		json.dump(data2, f, indent=4, ensure_ascii=False)
 
 
 #print(user_name)
 for name in data2:
-	print(name)
-
-
-
-
-
-
-
-
+	print(name.get["name"])
 
 
 
