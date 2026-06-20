@@ -68,14 +68,17 @@ print("Cheking new users...")
 print(30 * "=")
 
 print("Please Enter user name you want to use:")
+# Asking user for the username
 user_name = input()
+# making input lower and then as title case
+user_n = user_name.lower().title()
 
 exists = False
 
 # checking is the user exists
 for name in data2:
 	if isinstance(name, list):
-		if name.get("name") == user_name:
+		if name.get("name") == user_n:
 			exists = True
 			break
 
@@ -83,18 +86,23 @@ if exists:
 	print(f'{name["name"]} name is existing already.')
 else:
 	print(f"{user_name} name is available")
-
-	data2.append({"name": user_name})
+	# appending it to the .json file
+	data2.append({"name": user_n})
 
 	print(f"Saving {user_name} to user list...")
+	# overwriting the file
 	with open("./files/new_users.json", "w") as f:
 		json.dump(data2, f, indent=4, ensure_ascii=False)
 
+#print(type(data2))
 
-#print(user_name)
-for name in data2:
-	print(name.get["name"])
-
-
-
-
+# printing item from a data2
+for item in data2:
+	# if the  data2 is list of dicts it should user "dict"
+	if isinstance(item, dict):
+		# creating variable for users_name it must  be inside "isinstance"
+		users_name = item.get("name")
+		if users_name == user_n:
+			print(f"Greetings to our new member of the group, welcome {users_name} to the group!")
+		else:
+			print(f"Hello {users_name}")

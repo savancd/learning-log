@@ -1,0 +1,23 @@
+# Environment
+.env
+venv.
+.venv/
+.env.*
+!.env.example
+.envrc
+.environment
+
+__pycache__/
+*.pyc
+*.pyo
+
+# OS Generated
+.DS_Store
+.DS_Store?
+*.swp
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+*.log
