@@ -11,8 +11,7 @@ venv.
 # Large datasets 
 /datasets/raw/2026/overpass-turbo/data/
 /datasets/raw/2025/
-
-
+/datasets/raw/2025/tif/
 
 __pycache__/
 *.pyc
