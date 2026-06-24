@@ -6,7 +6,8 @@ The following file is to track all the downloaded data and sources.
 ## Main Roads
 
 > [!24.06.2026]   
-- Screenshot: /datasets/raw/2026/overpass-turbo/img/
+
+- [Screenshot:](./img/highway_motorway_link.geojson)
 - File: highway_motorway_link.geojson   
 
 ### main roads script
