@@ -7,7 +7,7 @@ The following file is to track all the downloaded data and sources.
 
 > [!24.06.2026]   
 
-![Screenshot](img/highway_motorway_link.geojson)
+![Screenshot](img/highway_motorway_link_24.06.2026.png)
 
 - File: highway_motorway_link.geojson   
 
