@@ -9,18 +9,23 @@ Current challenge: 005
 
 > This challenge List is made for me to master Python from 0 to 100% of working knowledge with Python.
 
-- fake_id_card
-	- fake_id_card.py
-	- places.json
-	- README.md
+- [x] body-mass-index.py
+- [x] fake_id_card
+	- [x] fake_id_card.py
+	- [x] places.json
+	- [x] README.md
 
-- hours_to_min.py
-- movie_list
-	- movie_list.py
-	- movies.json
+- [x] hours_to_min.py
+- [x] movie_list
+	- [x] movie_list.py
+	- [x] movies.json
 
-- shopping_list
-	-  list.json
-	- shopping_list.py
-	- string_manipulation.py
+- [x] packman.py
+- [x] shopping_list
+	- [x]  list.json
+	- [x] shopping_list.py
+	- [x] string_manipulation.py
+- [x] tuples-unpacking.py
+
+
 
