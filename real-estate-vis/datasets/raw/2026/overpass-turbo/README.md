@@ -2,6 +2,22 @@
 
 The following file is to track all the downloaded data and sources.   
 
+---
+
+
+## Administrative Boundaries
+
+
+> [!26.06.2026]   
+
+![Screenshot](img/admin_boundaries_motorway_link_24.06.2026.png)
+
+
+<p align="center">admin_boundaries_motorway_link_24.06.2026.png</p>
+
+
+---
+
 
 ## Main Roads
 
@@ -9,17 +25,6 @@ The following file is to track all the downloaded data and sources.
 
 ![Screenshot](img/highway_motorway_link_24.06.2026.png)
 
-- File: highway_motorway_link.geojson   
+<p align="center">File highway_motorway_link.png</p>
 
-### main roads script
 
-```bash
-[out:json][timeout:300];
-
-way
-["highway"~
-"motorway|motorway_link|trunk|trunk_link|primary|primary_link|secondary|secondary_link"]
-({{bbox}});
-
-out geom;
-```

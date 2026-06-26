@@ -1,9 +1,9 @@
 # Python challenge list
 
 
-Challenges completed: 4 / $\infty$   
-Last completed: shopping_list.py   
-Current challenge: 005   
+Challenges completed: 7 / $\infty$   
+Last completed: body-mass-index.py   
+Current challenge: 007   
 
 
 

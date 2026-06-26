@@ -12,6 +12,8 @@ venv.
 /datasets/raw/2026/overpass-turbo/data/
 /datasets/raw/2025/*
 /datasets/raw/2025/tif/
+/datasets/raw/natural-earth
+
 
 __pycache__/
 *.pyc
