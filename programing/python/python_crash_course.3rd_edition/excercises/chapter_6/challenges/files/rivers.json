@@ -1,0 +1,23 @@
+[
+	{
+	"name": "nile",
+	"location": "northeast africa",
+	"flows": ["uganda", "south sudan", "sudan", "egypt"],
+	"flowing_in": "mediterranian sea",
+	"countries": ["uganda", "south sudan", "sudan", "egypt"]
+	},
+	{
+	"name": "amazon",
+	"location": "south america",
+	"flows": ["peru", "columbia", "brazil"],
+	"flowing_in": "athlantic ocean",
+	"countries": ["peru", "columbia", "brazil"]
+	},
+	{
+	"name": "danube",
+	"location": "europe",
+	"flows": ["germany", "austria", "slovakia", "hungary", "serbia", "croatia", "romania"],
+	"flowing_in": "black sea",
+	"countries": ["germany", "austria", "slovakia", "hungary", "serbia", "croatia", "romania"]
+	}
+]

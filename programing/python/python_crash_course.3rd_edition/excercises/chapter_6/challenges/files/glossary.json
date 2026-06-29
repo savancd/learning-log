@@ -1,0 +1,11 @@
+{
+	"glossary": [
+	{"name": "True", "value": "boolean value"},
+	{"name": "False", "value": "boolean value"},
+	{"name": "None", "value": "null/nothing value"},
+	{"name": "0", "value": "integer"},
+	{"name": "3.14", "value": "floats"},
+	{"name": "hello", "value": "string"},
+	{"name": "", "value": "empty string"}
+	]
+}
