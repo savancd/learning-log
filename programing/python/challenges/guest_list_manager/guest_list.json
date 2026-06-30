@@ -4,9 +4,9 @@
 	"date": "28_06_2026"
 	},
 	"guest_list": [
-	{"client_id": "c-0100", "name": "Nikola Tesla", "email": "tesla@yahoo.com", "phone": "+381-63-333-256", "source": "signup", "gender": "m"},
-	{"client_id": "c-0101", "name": "Jovan Hadžić", "email": "jovan@hostname.com", "phone": "+381-63-521-456", "source": "signup", "gender": "m"},
-	{"client_id": "c-0102", "name": "Mihajlo Pupin", "email": "mihajlo@email.com", "phone": "+381-64-256-543", "source": "signup", "gender": "m"},
-	{"client_id": "c-0103", "name": "Ruđer Boškovič", "email": "ruder@yahoo.com", "phone": "+381-69-445-245", "source": "signup", "gender": "m"}
+		{"client_id": "c-0100", "name": "Nikola Tesla", "email": "tesla@yahoo.com", "phone": "+381-63-333-256", "source": "signup", "gender": "m"},
+		{"client_id": "c-0101", "name": "Jovan Hadžić", "email": "jovan@hostname.com", "phone": "+381-63-521-456", "source": "signup", "gender": "m"},
+		{"client_id": "c-0102", "name": "Mihajlo Pupin", "email": "mihajlo@email.com", "phone": "+381-64-256-543", "source": "signup", "gender": "m"},
+		{"client_id": "c-0103", "name": "Ruđer Boškovič", "email": "ruder@yahoo.com", "phone": "+381-69-445-245", "source": "signup", "gender": "m"}
 	]
 }
