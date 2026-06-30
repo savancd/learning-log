@@ -2,24 +2,23 @@
 
 <h2 align="center">This projects started on 16.05.2026</h2>
 
-
-
-This is self teaching computer science, Python and Linux from the ground up.   
-Everything Documented publicly. No shortcuts and no pretending to know more then I do.   
-
+This is my own learning computer science, Python and Linux, and much more..   
+Everything Documented here to track my own progress.   
+No shortcuts and no pretending to know more then I do.   
 
 <h2 align="center">This is</h2>
 
+A public record of my Learning. 
+- Notes
+- E xcercises 
+- Mistakes and progress.   
 
-A public record of my Learning. Raw Notes, excercises, mistakes and progress.   
-Built for accountability and not a performance.   
+Built for tracking progress  and not a performance.   
 
 Every commit is real work done that day, and every commit is written in my own words.    
 Excercises are typed by hand, no copy paste.   
 
 <h2 align="center">Current focus</h2>
-
-
 
 | Subject | Resources | Status |
 |---|---|---|
@@ -27,8 +26,6 @@ Excercises are typed by hand, no copy paste.
 | Python | Python Crash Course 3rd Book  | In Progress |
 | Linux | Linux Bible book | In Progres |
 | OSSU | Open Source Society University | Planned |
-
-
 
 ## *Online resources:*
 
