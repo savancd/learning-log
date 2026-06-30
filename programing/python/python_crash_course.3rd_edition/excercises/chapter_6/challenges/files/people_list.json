@@ -1,0 +1,9 @@
+{
+	"list_of_users": [
+		{"id": "user_001", "name": "Ena Milose", "email": "em@google.com", "gender": "f", "poll": "no"},
+		{"id": "user_002", "name": "Tom Hanks", "email": "tom@example.com", "gender": "m", "poll": "no"},
+		{"id": "user_003", "name": "Emma Stone", "email": "amma@hotmail.com", "gender": "f", "poll": "yes"},
+		{"id": "user_004", "name": "Lenardo DiCaprio", "email": "leonardo@gmail.com", "gende": "m", "poll": "no"},
+		{"id": "user_005", "name": "Selma Hayek", "email": "selma.h@gmail.com", "gender": "f", "poll": "yes"}
+	]
+}
