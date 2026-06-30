@@ -1,9 +1,9 @@
 # Python challenge list
 
 
-Challenges completed: 7 / $\infty$   
-Last completed: body-mass-index.py   
-Current challenge: 007   
+Challenges completed: 8 / $\infty$   
+Last completed: guest_list_manager.py   
+Current challenge: 008   
 
 
 
@@ -14,6 +14,11 @@ Current challenge: 007
 	- [x] fake_id_card.py
 	- [x] places.json
 	- [x] README.md
+
+- [X]guest_list_manager
+	- [X] guest_list.json
+	- [x] guest_list.py
+
 
 - [x] hours_to_min.py
 - [x] movie_list
@@ -29,3 +34,7 @@ Current challenge: 007
 
 
 
+5 directories, 15 files
+
+
+<p align="center">Generated on the Terminal with <strong>Tree</strong></p>
