@@ -1,0 +1,23 @@
+[
+	{"year": "2005", "work": "10", "money": "10", "family": "10", "traveling": "3", "physical_work": "10", "gym": "0", "windows": "5", "linux": "0", "python": "0", "location_id": "loc_1", "event": "Just normal life, working, playing with tech, making .bat files as viruses and destroying my own computer "},
+	{"year": "2006", "work": "8", "money": "8", "family": "2", "traveling": "1", "physical_work": "10", "gym": "0", "windows": "3", "linux": "0", "python": "0", "location_id": "loc_1", "event": "Problems with health family issues "},
+	{"year": "2007", "work": "10", "money": "5", "family": "3", "traveling": "0", "physical_work": "10", "gym": "0", "windows": "0", "linux": "0", "python": "0", "location_id": "loc_1", "event": "none"},
+	{"year": "2008", "work": "10", "money": "6", "family": "5", "traveling": "0", "physical_work": "10", "gym": "0", "windows": "3", "linux": "1", "python": "0", "location_id": "loc_1", "event": "none"},
+	{"year": "2009", "work": "10", "money": "8", "family": "6", "traveling": "2", "physical_work": "8", "gym": "0", "windows": "5", "linux": "2", "python": "0", "location_id": "loc_1", "event": "none"},
+	{"year": "2010", "work": "10", "money": "9", "family": "8", "traveling": "3", "physical_work": "8", "gym": "1", "windows": "8", "linux": "3", "python": "0", "location_id": "loc_1", "event": "none"},
+	{"year": "2011", "work": "0", "money": "3", "family": "1", "traveling": "0", "physical_work": "0", "gym": "0", "windows": "0", "linux": "0", "python": "0", "location_id": "loc_1a", "event": "Family problems with health"},
+	{"year": "2012", "work": "10", "money": "5", "family": "3", "traveling": "0", "physical_work": "10", "gym": "0", "windows": "0", "linux": "0", "python": "0", "location_id": "loc_1a", "event": "none"},
+	{"year": "2013", "work": "10", "money": "10", "family": "9", "traveling": "3", "physical_work": "10", "gym": "0", "windows": "3", "linux": "0", "location_id": "loc_3", "python": "0", "event": "none"},
+	{"year": "2014", "work": "10", "money": "10", "family": "9", "traveling": "10", "physical_work": "4", "gym": "10", "windows": "0", "linux": "0", "python": "0", "location_id": "loc_3", "event": "none"},
+	{"year": "2017", "work": "10", "money": "10", "family": "10", "traveling": "10", "physical_work": "2", "gym": "10", "windows": "8", "linux": "0", "python": "0", "location_id": "loc_2", "event": "none"},
+	{"year": "2018", "work": "10", "money": "8", "family": "10", "traveling": "7", "physical_work": "2", "gym": "7", "windows": "10", "linux": "0", "python": "1", "location_id": "loc_1", "event": "none"},
+	{"year": "2019", "work": "8", "money": "6", "family": "10", "traveling": "5", "physical_work": "2", "gym": "5", "windows": "10", "linux": "0", "python": "2", "location_id": "loc_1a", "event": "none"},
+	{"year": "2020", "work": "0", "money": "2", "family": "10", "traveling": "1", "physical_work": "0", "gym": "0", "windows": "10", "linux": "0", "python": "2", "location_id": "loc_1", "event": "none"},
+	{"year": "2021", "work": "10", "money": "6", "family": "10", "traveling": "1", "physical_work": "0", "gym": "0", "windows": "10", "linux": "1", "python": "2", "location_id": "loc_1a", "event": "none"},
+	{"year": "2022", "work": "10", "money": "4", "family": "10", "traveling": "0", "physical_work": "0", "gym": "0", "windows": "10", "linux": "2", "python": "2", "location_id": "loc_1", "event": "none"},
+	{"year": "2023", "work": "10", "money": "5", "family": "10", "traveling": "1", "physical_work": "0", "gym": "0", "windows": "7", "linux": "6", "python": "2", "location_id": "loc_1", "event": "none"},
+	{"year": "2024", "work": "0", "money": "2", "family": "0", "traveling": "0", "physical_work": "0", "gym": "0", "windows": "0", "linux": "0", "python": "0", "location_id": "loc_1a",  "event": "A lot ..."},
+	{"year": "2025", "work": "10", "money": "10", "family": "6", "traveling": "10", "physical_work": "0", "gym": "0", "windows": "4", "linux": "9", "python": "3", "location_id": "loc_4", "event": "none"},
+	{"year": "2026", "work": "2", "money": "2", "family": "10", "traveling": "4", "physical_work": "0", "gym": "0", "windows": "1", "linux": "10", "python": "5", "location_id": "loc_4", "event": "none"}
+]
+
