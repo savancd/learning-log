@@ -1,0 +1,22 @@
+{
+	"loc_1": {
+    	"label": "Serbia",
+	    "type": "location 1"
+	},
+	"loc_1a": {
+		"label": "Location 2",
+		"type": "location 2"
+	},
+	"loc_2": {
+    	"label": "Location 3",
+    	"type": "transition"
+	},
+	"loc_3": {
+		"label": "Location 4",
+		"type": "transition"
+	},
+	"loc_4": {
+		"label": "Location 5",
+		"type": "transition"
+	}
+}
