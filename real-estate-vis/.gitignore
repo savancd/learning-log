@@ -18,7 +18,7 @@ venv.
 __pycache__/
 *.pyc
 *.pyo
-*.ipynb
+#*.ipynb
 
 
 .env
