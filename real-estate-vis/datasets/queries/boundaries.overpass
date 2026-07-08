@@ -1,0 +1,11 @@
+[out:json][timeout:{{timeout}}];
+
+	area
+		["boundary"="administrative"]
+		["name"="{{city}}"]->.searchArea;
+
+		(
+    way["building"](area.searchArea);
+);
+
+out {{output}};

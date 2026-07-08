@@ -1,0 +1,6 @@
+{
+    "city": "Las Piñas",
+    "country": "Philippines",
+    "timeout": 120,
+    "output": "geom"
+}
