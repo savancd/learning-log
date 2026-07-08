@@ -11,6 +11,11 @@ All the images in this **README.md** file is a collection of all project exports
 
 
 <figure align="center">
+    <img src="img/admin_boundaries_barangays_08.07.2026.png" alt="Second test export of the map with administrative barangay boundaries in  Metro Manila" width="900" />
+    <figcaption>Administrative boundaries in  Metro Manila</figcaption>
+</figure>
+
+<figure align="center">
     <img src="img/admin_boundaries_motorway_link_24.06.2026.png" alt="Second test export of the map with administrative boundaries in  Metro Manila" width="900" />
     <figcaption>Administrative boundaries in  Metro Manila</figcaption>
 </figure>
