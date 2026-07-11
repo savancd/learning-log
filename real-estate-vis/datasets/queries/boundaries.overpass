@@ -1,11 +1,9 @@
-[out:json][timeout:{{timeout}}];
+[out:json][timeout:300];
 
-	area
-		["boundary"="administrative"]
-		["name"="{{city}}"]->.searchArea;
+relation
+  ["boundary"="administrative"]
+  ["admin_level"="6"]
+  ["name"="Las Piñas"];
 
-		(
-    way["building"](area.searchArea);
-);
 
-out {{output}};
+out ids

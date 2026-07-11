@@ -1,0 +1,7 @@
+[out:json][timeout:300];
+
+relation(2095594);
+
+
+out geom;
+

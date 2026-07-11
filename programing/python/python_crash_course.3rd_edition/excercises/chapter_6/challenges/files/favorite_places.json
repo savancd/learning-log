@@ -1,0 +1,15 @@
+{
+	"favorite_places": [
+			{
+				"Ana": ["Seul", "Singapore", "Geneva"]
+			},
+			{
+				"Steva": ["Tokio", "Manila", "Paris"]
+			},
+			{
+				"Lana": ["Belgrade", "Tokio", "Dawao"]
+			}
+	]
+
+}
+

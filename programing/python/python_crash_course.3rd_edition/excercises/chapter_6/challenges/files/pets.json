@@ -1,0 +1,11 @@
+[
+	{
+		"pets": [
+			{"pet": "dog", "owner": "alex"},
+			{"pet": "cat", "owner": "mia"},
+			{"pet": "fish", "owner": "jordan"},
+			{"pet": "bird", "owner": "priya"},
+			{"pet": "hamster", "owner": "noah"}
+		]
+	}
+]

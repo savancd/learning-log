@@ -1,0 +1,44 @@
+{
+  "cities": {
+    "Seoul": {
+      "country": "South Korea",
+      "population": 9600000,
+      "fact": "Seoul is the capital and largest city of South Korea."
+    },
+    "Singapore": {
+      "country": "Singapore",
+      "population": 5832387,
+      "fact": "Singapore’s population is fully urban (100%)."
+    },
+    "Geneva": {
+      "country": "Switzerland",
+      "population": 203856,
+      "fact": "Geneva is known internationally for finance and diplomacy."
+    },
+    "Tokyo": {
+      "country": "Japan",
+      "population": 14254039,
+      "fact": "Tokyo is Japan’s capital and most populous city."
+    },
+    "Manila": {
+      "country": "Philippines",
+      "population": 1902590,
+      "fact": "Manila is the capital city of the Philippines."
+    },
+    "Paris": {
+      "country": "France",
+      "population": 2047602,
+      "fact": "Paris is nicknamed the “City of Light.”"
+    },
+    "Belgrade": {
+      "country": "Serbia",
+      "population": 1681182,
+      "fact": "Belgrade is the capital and largest city of Serbia."
+    },
+    "Davao": {
+      "country": "Philippines",
+      "population": 1848947,
+      "fact": "Davao City is nicknamed the “Durian Capital of the Philippines.”"
+    }
+  }
+}
