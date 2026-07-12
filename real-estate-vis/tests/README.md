@@ -10,6 +10,11 @@ All the images in this **README.md** file is a collection of all project exports
 
 
 <figure align="center">
+    <img src="img/map_pins_.12.07.2026.png" alt="Map with pin's in Metro Manila" width="900" />
+    <figcaption>Location Pins in  Metro Manila</figcaption>
+</figure>
+
+<figure align="center">
     <img src="img/admin_boundaries_11.07.2026.png" alt="Map with administrative boundaries in  Metro Manila" width="900" />
     <figcaption>Administrative boundaries in  Metro Manila</figcaption>
 </figure>

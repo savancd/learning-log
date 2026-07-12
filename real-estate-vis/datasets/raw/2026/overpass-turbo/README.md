@@ -8,7 +8,21 @@ The following file is to track all the downloaded data and sources.
 
 
 
-## Barangay Boundaries
+## Map Pin's
+
+
+> [!12.07.2026]   
+
+![Screenshot](img/map_pins_.12.07.2026.png)
+
+
+<p align="center">map_pins_.12.07.2026.png</p>
+
+
+---
+
+
+## Administrative Boundaries
 
 
 > [!11.07.2026]   
