@@ -1,0 +1,13 @@
+{
+	"people": [
+		{"name": "Alice", "age": "25", "city": "New York", "job": "Engineer"},
+		{"name": "Bob", "age": "31", "city": "Chickago", "job": "Tokio"},
+		{"name": "Charlie", "age": "28", "city": "Seul", "job": "Designer"},
+		{"name": "Diana", "age": "35", "city": "Manila", "job": "Doctor"},
+		{"name": "Ethan", "age": "42", "city": "Moskow", "job": "Student"},
+		{"name": "Nameless", "age": "25", "city": "New York", "job": "Engineer"},
+		{"name": "Fiona", "age": "49", "city": "Doha", "job": "Chef"},
+		{"name": "Hana", "age": "35", "city": "Tokio", "job": "Pilot"},
+		{"name": "Ian", "age": "56", "city": "Dubai", "job": "Lawyer"}
+	]
+}
