@@ -4,6 +4,7 @@
 		{"id": 2, "name": "Ham & Cheddar", "bread": "rye", "sides": ["pickle"]},
 		{"id": 3, "name": "PB & Banana", "bread": "white", "sides": ["apple slices"]},
 		{"id": 4, "name": "Caprese", "bread": "ciabatta", "sides": ["tomato soup"]},
-		{"id": 5, "name": "Chicken Caesar", "bread": "baguette", "sides": ["cucumber salad"]}
+		{"id": 5, "name": "Chicken Caesar", "bread": "baguette", "sides": ["cucumber salad"]},
+		{"id": 6, "name": "Pastrami", "bread": "white", "sides": ["cucumber"]}
 	]
 }
