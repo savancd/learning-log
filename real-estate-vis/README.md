@@ -1,13 +1,17 @@
 <h1 align="center">README.md</h1>
 
 
-The files with extension **..ipynb** will not be pushed to GitHub, instead all files will be converted into **.md** file format and images will be exported for presentation.
-
 
 <h2 align="center">Images</h2>
 
 All the images in this **README.md** file is a collection of all project exports, in all projects you can find specific exports only for that file and project.
 
+
+
+<figure align="center">
+    <img src="img/_09.08.2026_kikinda.png" alt="Location inteligence for Kikinda, Serbia" width="900" />
+    <figcaption>Location - Kikinda Serbia</figcaption>
+</figure>
 
 <figure align="center">
     <img src="img/map_pins_.12.07.2026.png" alt="Map with pin's in Metro Manila" width="900" />
