@@ -1,0 +1,23 @@
+# Private/raw watch and phone data
+data/raw/
+data/processed/
+
+# Generated visualizations and exports
+output/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+config/local.yaml
