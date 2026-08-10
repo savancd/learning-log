@@ -8,6 +8,14 @@ All the images in this **README.md** file is a collection of all project exports
 
 
 
+
+<figure align="center">
+    <img src="img/_2026.08.11_road-network-5km.png" alt="Road network in Las Piñas" width="900" />
+    <figcaption>Location - Las Piñas</figcaption>
+</figure>
+
+
+
 <figure align="center">
     <img src="img/_09.08.2026_kikinda.png" alt="Location inteligence for Kikinda, Serbia" width="900" />
     <figcaption>Location - Kikinda Serbia</figcaption>
